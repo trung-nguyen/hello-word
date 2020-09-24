@@ -16,8 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React from MAAAC NEW
-          Learn aaaa
+          agagjklgjklagk
         </a>
       </header>
     </div>

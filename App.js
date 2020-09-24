@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React trungnn
+          Learn React from iMac
         </a>
       </header>
     </div>

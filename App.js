@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          huuhuhuhu
+          React Native
         </a>
       </header>
     </div>

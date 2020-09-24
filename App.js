@@ -17,6 +17,7 @@ function App() {
           rel="trungnnn"
         >
           trungreactnative from Trung Thai Binh
+>>>>>>> 225e54e93c6d7b2f8f09a18ea6d126eccae4322a
         </a>
       </header>
     </div>

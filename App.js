@@ -14,13 +14,9 @@ function App() {
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
-          rel="trungnnn"
+          rel="trungnn ha noi"
         >
-<<<<<<< HEAD
           trungreactnative by Trung iMac
-=======
-          trungreactnative from Trung Dell
->>>>>>> 7699726f2a16fdcdbbbb85738fa0936268964f01
         </a>
       </header>
     </div>

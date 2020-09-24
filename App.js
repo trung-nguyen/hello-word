@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          trungreact
+          trungreactnative
         </a>
       </header>
     </div>

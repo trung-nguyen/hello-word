@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="trungnnn"
         >
-          trungreactnative from Trung Dell
+          trungreactnative from Trung Thai Binh
         </a>
       </header>
     </div>

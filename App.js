@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="trungnnn"
         >
-          trungreactnative
+          trungreactnative by Trung iMac
         </a>
       </header>
     </div>

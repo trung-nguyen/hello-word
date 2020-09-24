@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          React Native
+          React Native trungnguyen
         </a>
       </header>
     </div>
